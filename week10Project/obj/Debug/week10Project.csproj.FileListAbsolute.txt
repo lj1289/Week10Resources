@@ -1,0 +1,2 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week10Project\week10Project\bin\Debug\week10Project.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\week10Project\week10Project\obj\Debug\week10Project.csprojResolveAssemblyReference.cache
